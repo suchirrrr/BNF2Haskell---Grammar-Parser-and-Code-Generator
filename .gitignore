@@ -1,0 +1,9 @@
+.stack-work/
+dist-newstyle/
+node_modules/
+dist/
+Haskell/examples/output/
+Haskell/examples/diff_output/
+*.hi
+*.o
+.env
